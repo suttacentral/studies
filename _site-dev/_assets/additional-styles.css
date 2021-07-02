@@ -1,0 +1,81 @@
+
+body {font-family: "Source Sans Variable"}
+
+.markdown-body {font-family: "Source Serif Variable"}
+
+#main-header{
+	background-color:  #ffcb61;
+  padding:  0;
+
+}
+
+#main-header .content-area{
+    height:  56px;
+}
+
+#main-header .logo-link{
+  color:  inherit;
+}
+
+rocket-navigation > ul > li > a {
+	color: var(--primary-color);
+	font-weight: 600;
+	font-size: 1.25rem;
+	text-transform: lowercase;
+	font-variant-caps: all-small-caps;
+  letter-spacing:  0.01em;
+}
+
+#layout-index-open-navigation{
+  display:  none;
+}
+
+.markdown-body h1 {
+  font-weight:  350;
+}
+
+.markdown-body blockquote{
+  color:  inherit;
+}
+
+html {
+  --primary-color: rgb(161,108,0);
+  --primary-color-lighter: #e25761;
+  --primary-color-darker: #a22831;
+  --primary-color-accent: #cee5f6;
+  --primary-text-color: #2c3e50;
+  --primary-lines-color: #ccc;
+
+  /* Contrast colors */
+  --contrast-color-light: #fff;
+  --contrast-color-dark: #1d3557;
+
+  /* background-colors */
+  --page-background: white;
+  --footer-background: rgba(0, 0, 0, 0.1);
+
+  --text-color: black;
+}
+
+html.dark {
+  --primary-color: #e63946;
+  --primary-color-lighter: #e25761;
+  --primary-color-darker: #a22831;
+  --primary-color-accent: #cee5f6;
+  --primary-text-color: #eee;
+
+  /* Contrast colors */
+  --contrast-color-light: #fff;
+  --contrast-color-dark: #1d3557;
+
+  /* background-colors */
+  --page-background: #333;
+  --footer-background: #4f4f4f;
+
+  --text-color: white;
+
+  --markdown-octicon-link: white;
+  --markdown-syntax-background-color: #a0a0a0;
+  --markdown-link-color: #fb7881;
+  --markdown-blockquote-color: #c9e3ff;
+}
