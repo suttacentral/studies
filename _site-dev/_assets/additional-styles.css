@@ -47,6 +47,20 @@ rocket-navigation > ul > li > a {
 text-decoration:  underline;
 }
 
+body[layout="layout-home-background"] #main-header a{
+color: var(--primary-color);
+}
+
+body[layout="layout-home-background"] .page-background{
+  transform: none;
+  opacity:  0.1;
+}
+
+body[layout^="layout-home"] .page-title{
+  font-weight:  300;
+}
+
+
 html {
   --primary-color: rgb(161,108,0);
   --primary-color-lighter: #e25761;
