@@ -53,13 +53,24 @@ color: var(--primary-color);
 
 body[layout="layout-home-background"] .page-background{
   transform: none;
-  opacity:  0.1;
+  opacity:  0.05;
+}
+
+body[layout="layout-home-background"]{
+  background-color: RGBA(255, 203, 97, 0.5);
 }
 
 body[layout^="layout-home"] .page-title{
   font-weight:  300;
 }
 
+body[layout="layout-home-background"] #content-wrapper{
+  min-height:  90vh;
+}
+
+#main-footer{
+  border-top:  none;
+}
 
 html {
   --primary-color: rgb(161,108,0);
