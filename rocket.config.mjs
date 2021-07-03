@@ -1,9 +1,9 @@
 import { rocketLaunch } from '@rocket/launch';
-import { rocketSearch } from '@rocket/search';
 import { rocketBlog } from '@rocket/blog';
+import { rocketSearch } from '@rocket/search';
 import { absoluteBaseUrlNetlify } from '@rocket/core/helpers';
 
-export default {
-  presets: [rocketLaunch(), rocketSearch(), rocketBlog()],
+export default /** @type {Partial<import('@rocket/cli').RocketCliOptions>} */ ({
+  presets: [rocketLaunch(), rocketBlog(), rocketSearch()],
   absoluteBaseUrl: absoluteBaseUrlNetlify('http://localhost:8080'),
-};
+});
