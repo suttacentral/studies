@@ -5,5 +5,5 @@ import { absoluteBaseUrlNetlify } from '@rocket/core/helpers';
 
 export default /** @type {Partial<import('@rocket/cli').RocketCliOptions>} */ ({
   presets: [rocketLaunch(), rocketBlog(), rocketSearch()],
-  absoluteBaseUrl: absoluteBaseUrlNetlify('http://localhost:8080'),
+  absoluteBaseUrl: absoluteBaseUrlNetlify('http://localhost:8000'),
 });
