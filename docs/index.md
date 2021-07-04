@@ -1,6 +1,7 @@
 ---
 title: International Pali Translation Project
 layout: layout-home-background
+subtitle: An initiative of the Oxford Center for Buddhist Studies in collaboration with SuttaCentral
 slogan: What has not been translated should be translated; what has been translated should be improved.
 callToActionItems:
   - text: About this project

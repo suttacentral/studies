@@ -1,5 +1,13 @@
+@font-face {
+  font-family: 'Staatliches';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(Staatliches-Regular.ttf) format('ttf');
+}
 
-body {font-family: "Source Sans Variable"}
+
+body {font-family: "Staatliches"}
 
 .markdown-body {font-family: "Source Serif Variable"}
 
@@ -27,6 +35,14 @@ rocket-navigation > ul > li > a {
   letter-spacing:  0.01em;
 }
 
+rocket-navigation a:hover,
+#footer-menu a:hover {
+text-decoration: underline;
+text-decoration-color: #ffcb61;
+text-decoration-thickness: 0.15em;
+text-underline-offset: 0.06em;
+}
+
 #layout-index-open-navigation{
   display:  none;
 }
@@ -41,10 +57,6 @@ rocket-navigation > ul > li > a {
 
 .markdown-body a {
     color: var(--primary-color);
-}
-
-#footer-menu a:hover{
-text-decoration:  underline;
 }
 
 body[layout="layout-home-background"] #main-header a{
@@ -62,10 +74,25 @@ body[layout="layout-home-background"]{
 
 body[layout^="layout-home"] .page-title{
   font-weight:  300;
+  margin-bottom:  8px;
+  padding-bottom:  0;
 }
 
 body[layout="layout-home-background"] #content-wrapper{
   min-height:  90vh;
+}
+
+body[layout="layout-home-background"] .page-subtitle{
+  margin:  0 0 48px 0;
+  border-color:  var(--primary-text-color);
+  padding-bottom:  22px;
+  text-align: center;
+}
+
+@media screen and (min-width: 1024px) {
+  body[layout='layout-home-background'] .page-subtitle {
+    text-align: left;
+  }
 }
 
 #main-footer{
