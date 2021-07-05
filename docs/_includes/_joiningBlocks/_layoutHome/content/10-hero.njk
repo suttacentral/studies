@@ -1,0 +1,15 @@
+<img class="page-logo" src="{{ '/_assets/logo.svg' | asset | url }}" alt="{{ site.title }} Logo"/>
+
+<img class="page-background" src="{{ '/_assets/logo.svg' | asset | url }}" role="presentation"/>
+
+<h1 class="page-title">{{title}}</h1>
+
+<h2 class="page-subtitle">{{subtitle}}</h2>
+
+<p class="page-slogan">{{slogan}}</p>
+
+<div class="call-to-action-list" role="list">
+  {% for callToAction in callToActionItems %}
+    <a class="call-to-action" href="{{ callToAction.href | url }}" role="listitem">{{ callToAction.text | safe }}</a>
+  {% endfor %}
+</div>
