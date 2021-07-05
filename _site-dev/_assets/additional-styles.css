@@ -1,15 +1,6 @@
-@font-face {
-  font-family: 'Staatliches';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(Staatliches-Regular.ttf) format('ttf');
-}
+body {font-family: "Source Sans Pro"}
 
-
-body {font-family: "Staatliches"}
-
-.markdown-body {font-family: "Source Serif Variable"}
+.markdown-body {font-family: "Source Serif Pro"}
 
 #main-header{
 	background-color:  #ffcb61;

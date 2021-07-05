@@ -13,7 +13,7 @@ callToActionItems:
 reasonHeader: Why translate Pali texts?
 reasons:
   - header: Our job is not finished
-    text: Since the 19th century, scholars have worked to translate important Pali texts into English. But there remain several canonical texts, and most of the commentaries, that are still untranslated.
+    text: Since the 19th century, scholars have worked to translate important Pali texts into English. But several canonical texts and most of the commentaries are still untranslated. We aim to fill this gap.
   - header: Lift the field
     text: The study of Buddhist texts is a difficult and vast field with few resources. Without accurate translations, it is hard for study to make progress.
   - header: Translate all remaining canonical texts
