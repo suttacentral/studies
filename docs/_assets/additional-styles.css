@@ -216,6 +216,10 @@ text-underline-offset: 0.06em;
 }
 
 body[layout="layout-home-background"] #main-header a{
+color: var(--primary-text-color);
+}
+
+body[layout="layout-home-background"] #main-header a:hover{
 color: var(--primary-color);
 }
 
