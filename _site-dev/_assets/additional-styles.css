@@ -163,9 +163,9 @@
 
 
 
-body {font-family: "Source Sans Pro"}
+body {font-family: "Source Sans Variable", "Source Sans Pro", sans-serif}
 
-.markdown-body {font-family: "Source Serif Pro"}
+.markdown-body {font-family: "Source Serif Variable", "Source Serif Pro", serif}
 
 #main-header{
 	background-color:  #ffcb61;
