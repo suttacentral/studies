@@ -161,11 +161,16 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+@font-face {
+  font-family: 'creepster';
+  font-style: normal;
+  font-display: swap;
+  src: url(https://github.com/suttacentral/suttacentral/blob/master/client/files/fonts/RaloksPEVFWeb-Ups_0.3.woff2) format('woff2');
+}
 
+body {font-family: creepster, "Source Sans Variable", "Source Sans Pro", sans-serif}
 
-body {font-family: "Source Sans Variable", "Source Sans Pro", sans-serif}
-
-.markdown-body {font-family: "Source Serif Variable", "Source Serif Pro", serif}
+.markdown-body {font-family: "Source Serif 4 Variable", "alegreya", serif}
 
 #main-header{
 	background-color:  #ffcb61;
