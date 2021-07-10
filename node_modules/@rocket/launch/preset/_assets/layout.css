@@ -7,7 +7,7 @@
 
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: var(--primary-font-family);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -211,6 +211,14 @@ body[layout^='layout-home'] #main-header a:hover {
 
   #main-header .content-area > * {
     margin-right: 50px;
+  }
+
+  #main-header .content-area > .social-link {
+    margin-right: 15px;
+  }
+
+  #main-header .content-area > *:last-child {
+    margin-right: 0;
   }
 
   #main-header .search {
@@ -426,11 +434,13 @@ li.current > ul > li.anchor {
 
 /* for blog detail page */
 rocket-navigation h3 {
+  font-family: var(--heading-font-family, var(--primary-font-family));
   font-size: 16px;
   margin: 0 0 7px 0;
 }
 
 .sidebar-tags h3 {
+  font-family: var(--heading-font-family, var(--primary-font-family));
   margin-top: 30px;
 }
 
@@ -533,7 +543,7 @@ main > * {
   display: inline-block;
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
+  font-family: var(--secondary-font-family);
   font-size: 16px;
   font-weight: bold;
   vertical-align: middle;
