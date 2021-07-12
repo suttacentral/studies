@@ -41,11 +41,11 @@
 
 #main-header{
 	background-color:  #ffcb61;
-  padding:  0;
+  padding:  8px 0;
 }
 
-#main-header .content-area{
-    height:  56px;
+#main-header .search{
+    height:  44px;
 }
 
 #main-header .logo-link{
@@ -126,6 +126,12 @@ body[layout="layout-home-background"] .page-subtitle{
   text-align: center;
   color: var(--text-color);
   font-weight:  450;
+}
+
+body[layout^="layout-home"] .page-slogan{
+font-size: 24px;
+font-style: italic;
+font-weight: 450;
 }
 
 @media screen and (min-width: 1024px) {
