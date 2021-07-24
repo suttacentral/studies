@@ -1,6 +1,7 @@
 @font-face {
   font-family: "SourceSerif4Variable";
   font-style: normal;
+  font-weight: 1 999;
   font-display: swap;
   src: url(_merged_assets/_static/SourceSerif4Variable-Roman.ttf.woff2) format("woff2");
 }
@@ -8,6 +9,7 @@
 @font-face {
   font-family: "SourceSerif4Variable";
   font-style: italic;
+  font-weight: 1 999;
   font-display: swap;
   src: url(_merged_assets/_static/SourceSerif4Variable-Italic.ttf.woff2) format("woff2");
 }
@@ -15,6 +17,7 @@
 @font-face {
   font-family: "SourceSans3VF";
   font-style: normal;
+  font-weight: 1 999;
   font-display: swap;
   src: url(_merged_assets/_static/SourceSans3VF-Roman.ttf.woff2) format("woff2");
 }
@@ -22,6 +25,7 @@
 @font-face {
   font-family: "SourceSans3VF";
   font-style: italic;
+  font-weight: 1 999;
   font-display: swap;
   src: url(_merged_assets/_static/SourceSans3VF-Italic.ttf.woff2) format("woff2");
 }
