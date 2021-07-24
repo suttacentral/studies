@@ -1,0 +1,45 @@
+html {
+  --primary-color: rgb(161,108,0);
+  --primary-color-lighter: #e25761;
+  --primary-color-darker: #a22831;
+  --primary-color-accent: #cee5f6;
+  --primary-text-color: #2c3e50;
+  --primary-lines-color: #ccc;
+
+  /* Contrast colors */
+  --contrast-color-light: #fff;
+  --contrast-color-dark: #1d3557;
+
+  /* background-colors */
+  --page-background: white;
+  --footer-background: rgba(0, 0, 0, 0.1);
+
+  --text-color: rbg(55,55,55);
+  --primary-font-family: "SourceSans3VF", "Source Sans Variable", "Source Sans Pro", sans-serif;
+  --secondary-font-family: "SourceSerif4Variable", "Source Serif Variable", "Source Serif Pro", serif;
+  --heading-font-family: "SourceSerif4Variable", "Source Serif Variable", "Source Serif Pro", serif;
+  --monospace-font-family: "Source Code Variable", "Source Code Pro", monospace;
+}
+
+html.dark {
+  --primary-color: #e63946;
+  --primary-color-lighter: #e25761;
+  --primary-color-darker: #a22831;
+  --primary-color-accent: #cee5f6;
+  --primary-text-color: #eee;
+
+  /* Contrast colors */
+  --contrast-color-light: #fff;
+  --contrast-color-dark: #1d3557;
+
+  /* background-colors */
+  --page-background: #333;
+  --footer-background: #4f4f4f;
+
+  --text-color: white;
+
+  --markdown-octicon-link: white;
+  --markdown-syntax-background-color: #a0a0a0;
+  --markdown-link-color: #fb7881;
+  --markdown-blockquote-color: #c9e3ff;
+}
