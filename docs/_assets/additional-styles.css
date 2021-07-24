@@ -1,31 +1,3 @@
-@font-face {
-  font-family: "SourceSerif4Variable";
-  font-style: normal;
-  font-display: swap;
-  src: url(_static/SourceSerif4Variable-Roman.ttf.woff2) format("woff2");
-}
-
-@font-face {
-  font-family: "SourceSerif4Variable";
-  font-style: italic;
-  font-display: swap;
-  src: url(_static/SourceSerif4Variable-Italic.ttf.woff2) format("woff2");
-}
-
-@font-face {
-  font-family: "SourceSans3VF";
-  font-style: normal;
-  font-display: swap;
-  src: url(_static/SourceSans3VF-Roman.ttf.woff2) format("woff2");
-}
-
-@font-face {
-  font-family: "SourceSans3VF";
-  font-style: italic;
-  font-display: swap;
-  src: url(_static/SourceSans3VF-Italic.ttf.woff2) format("woff2");
-}
-
 .markdown-body {
   font-family: var(--secondary-font-family)
 }
