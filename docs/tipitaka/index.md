@@ -34,12 +34,12 @@ main
     display: flex;
 
     min-height: 100vh;
-    margin: 2em;
+    margin: 0;
 
     justify-content: center;
 }
 
-ul
+#pali-tipitaka ul
 {
     display: flex;
 
@@ -51,7 +51,7 @@ ul
     font-family: var(--secondary-font-family), serif;
 }
 
-li
+#pali-tipitaka li
 {
     line-height: 1.25;
 
@@ -89,8 +89,8 @@ h1
 {
     display: block;
 
-    margin: 1rem 1rem 0;
-    padding: .5rem .5rem .5rem;
+    margin: 1rem 1rem .5rem;
+    padding: .5rem;
 
     border-bottom: 1px solid #ccc;
 }
@@ -117,7 +117,7 @@ h1
 .fourth
 {
     font-size: 1rem;
-    font-weight: normal;
+    font-weight: 500;
 
     width: 17rem;
 }
@@ -131,7 +131,6 @@ h1
 {
     font-style: italic;
 
-    padding-left: 1rem;
 }
 
 .vertical .third
@@ -270,6 +269,7 @@ h1 a{
   </style>
 
 <body>
+	<div id='pali-tipitaka'>
     <ul class='horizontal first'>
       <li>
         <h1><root>Pāḷi Tipiṭaka</root><translation>Three Baskets of the Pāḷi Canon</translation></h1>
@@ -874,7 +874,7 @@ h1 a{
             </ul>
           </li>
           <li>
-            <a href='https://suttacentral.net/pli-tv-ab'><root>Abhidhamma Piṭaka</root><translation>Systematic Treatises</translation></a>
+            <a href='https://suttacentral.net/pli-tv-ab'><root>Abhidhammapiṭaka</root><translation>Systematic Treatises</translation></a>
             <ul class='horizontal third'>
               <li>
                 <ul class='vertical fourth abhidhamma'>
@@ -906,3 +906,4 @@ h1 a{
         </ul>
       </li>
     </ul>
+</div>
