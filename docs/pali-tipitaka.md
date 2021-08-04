@@ -900,6 +900,3 @@ translation
         </ul>
       </li>
     </ul>
-
-</body>
-</html>
