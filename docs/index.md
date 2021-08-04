@@ -4,12 +4,8 @@ layout: layout-home-background
 subtitle: An initiative of the Oxford Center for Buddhist Studies in collaboration with SuttaCentral
 slogan: What has not been translated should be translated; what has been translated should be improved.
 callToActionItems:
-  - text: About this project
-    href: /about/
-  - text: Essays by translators
-    href: /essays/
-  - text: Updates on our blog
-    href: /blog/
+  - text: Overview of Pāḷi Canon and project status
+    href: /pali-tipitaka/
 reasonHeader: Why translate Pali texts?
 reasons:
   - header: Our job is not finished
