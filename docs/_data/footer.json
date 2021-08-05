@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Partners",
+    "children": [
+      {
+        "text": "Oxford Center for Buddhist Studies",
+        "href": "http://ocbs.org/"
+      },
+            {
+        "text": "SuttaCentral",
+        "href": "https://suttacentral.net/"
+      }
+    ]
+  },
+  {
+    "name": "Contact",
+    "children": [
+      {
+        "text": "Email: info@palitranslation.org",
+        "href": "mailto:info@palitranslation.org"
+      },
+            {
+        "text": "SuttaCentral Forum",
+        "href": "https://discourse.suttacentral.net/"
+      }
+    ]
+  },
+  {
+    "name": "Support",
+    "children": [
+      {
+        "text": "Donate",
+        "href": "https://ocbs.org/donate/"
+      }
+    ]
+  }
+]

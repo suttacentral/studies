@@ -1,272 +1,17 @@
 ---
 title: Pāḷi Tipiṭaka Overview
 published: true
-description: Progress towards translating all Pali texts
+description: Progress towards translating Pali Canonical texts
 tags: [Pali, Buddhism, Tipitaka, OCBS, SuttaCentral]
 ---
 
-  <style>
+# Tipiṭaka Table
 
-
-.markdown-body ol,
-.markdown-body ul {
-  padding-left: 0;
-}
-
-.markdown-body ol ol,
-.markdown-body ol ul,
-.markdown-body ul ol,
-.markdown-body ul ul {
-  margin-bottom: 0;
-  margin-top: 0;
-}
-
-
-
-.markdown-body li + li {
-  margin-top: 0;
-}
-
-main
-{
-    display: flex;
-
-    min-height: 100vh;
-    margin: 2em;
-
-    justify-content: center;
-}
-
-ul
-{
-    display: flex;
-
-    margin: 0;
-    padding: 0;
-
-    list-style-type: none;
-
-    font-family: var(--secondary-font-family), serif;
-}
-
-li
-{
-    line-height: 1.25;
-
-    display: inline-block;
-}
-
-.vertical
-{
-    flex-direction: column;
-
-    text-align: left;
-}
-
-.horizontal
-{
-    flex-direction: row;
-
-    text-align: center;
-}
-
-h1
-{
-    font-size: 2rem;
-    font-weight: normal;
-
-    font-variant-caps: all-small-caps;
-}
-
-.markdown-body .second
-{
-    font-size: 1.5rem;
-}
-
-.markdown-body .second a
-{
-    display: block;
-
-    margin: 1rem 1rem 0;
-    padding: 1rem .5rem .5rem;
-
-    border-bottom: 1px solid #ccc;
-}
-
-.markdown-body .third a
-{
-    height: 5rem;
-    margin:  0.25rem;
-
-    border-bottom: none;
-    border-radius: .5rem;
-}
-
-.markdown-body .third
-{
-    font-size: 1rem;
-    font-weight: bold;
-
-    margin: .5rem 1em 0;
-
-    text-align: left;
-}
-
-.fourth
-{
-    font-size: 1rem;
-    font-weight: normal;
-
-    width: 17rem;
-}
-
-.fourth a
-{
-    padding-top: .5rem;
-}
-
-.markdown-body .fifth
-{
-    font-style: italic;
-
-    padding-left: 1rem;
-}
-
-.vertical .third
-{
-    font-weight: bold;
-}
-
-root
-{
-    display: block;
-}
-
-translation
-{
-    font-family: var(--primary-font-family), sans-serif;
-
-    color: #757575;
-}
-.abhidhamma{
-  margin-top:  1rem;
-}
-
-.markdown-body a{
-  color:  var(--text-color);
-
-    text-decoration: none;
-
-    position:  relative;
-    
-}
-
-.markdown-body a:hover
-{
-    background-color: #eee;
-
-    text-decoration:  none;
-}
-
-.markdown-body a.check{
-  background-color:  rgba(202,233,190,.5);
-}
-
-.markdown-body a.uncheck{
-  background-color:  rgba(233,190,202,.5);
-}
-
-
-.markdown-body a.check:hover{
-  background-color:  rgba(202,233,190,1);
-}
-
-.markdown-body a.check:hover:after{
-  content:  'translated';
-  font-family: var(--primary-font-family), sans-serif;
-  color:  white;
-  font-size:  0.8rem;
-  padding:  2px 4px;
-  background-color:  rgba(0,0,0,0.5);
-  position:  absolute;
-  right:  0;
-  bottom:  0;
-  border-radius:  0 0 0.5rem 0;
-  font-weight:  600;
-  font-style: normal;
-}
-
-.markdown-body a.uncheck:hover{
-  background-color:  rgba(233,190,202,1);
-}
-
-.markdown-body a.uncheck:hover:after{
-  content:  'not translated';
-  font-family: var(--primary-font-family), sans-serif;
-  color:  white;
-  font-size:  0.8rem;
-  padding:  4px 8px;
-  background-color:  rgba(0,0,0,0.5);
-  position:  absolute;
-  right:  0;
-  bottom:  0;
-  border-radius:  0 0 0.5rem 0;
-  font-weight:  600;
-  font-style: normal;
-}
-
-
-
-/*
-  .samyutta {
-  display:  none;
-  }
-  */
-
-@media only screen and (max-width: 2400px)
-{
-    .horizontal .second
-    {
-        flex-direction: column;
-
-        align-items: center;
-    }
-}
-
-/* following styles rest some rocket defaults */
-@media only screen and (max-width: 1300px)
-{
-    .horizontal .third
-    {
-        flex-direction: column;
-
-        align-items: center;
-    }
-}
-
-#content-wrapper .content-area {
-    display: block;
-}
-
-
-@media screen and (min-width: 1024px)
-.content-area {
-    max-width: 100%;
-    margin: 0 auto;
-}
-
-.markdown-body h1{
-  border:  none;
-}
-
-
-
-  </style>
-
-
+ <link rel="stylesheet" href="/text-table-styles.css"> 
+	<div class='text-list' id='tipitaka-text-list'>
     <ul class='horizontal first'>
       <li>
-        <h1><root>Pāḷi Tipiṭaka</root><translation>Three Baskets of the Pāḷi Canon</translation></h1>
+        <h1><root>Pāḷi Tipiṭaka</root><translation>Three Baskets of the Pāḷi Canon</translation></h1> 
         <ul class='horizontal second'>
           <li>
             <a href='https://suttacentral.net/pli-tv-vi'><root>Vinayapiṭaka</root><translation>Monastic Law</translation></a>
@@ -868,7 +613,7 @@ translation
             </ul>
           </li>
           <li>
-            <a href='https://suttacentral.net/pli-tv-ab'><root>Abhidhamma Piṭaka</root><translation>Systematic Treatises</translation></a>
+            <a href='https://suttacentral.net/pli-tv-ab'><root>Abhidhammapiṭaka</root><translation>Systematic Treatises</translation></a>
             <ul class='horizontal third'>
               <li>
                 <ul class='vertical fourth abhidhamma'>
@@ -900,3 +645,5 @@ translation
         </ul>
       </li>
     </ul>
+    <aside>Note: Translation status indicates whether these texts have been translated on our Bilara system.</aside>
+</div>
