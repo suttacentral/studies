@@ -5,7 +5,7 @@ description: Progress towards translating Pali Canonical texts
 tags: [Pali, Buddhism, Tipitaka, OCBS, SuttaCentral]
 ---
 
-# Tipiṭaka Table
+# Tipiṭaka Table || 10
 
  <link rel="stylesheet" href="/text-table-styles.css"> 
 	<div class='text-list' id='tipitaka-text-list'>
