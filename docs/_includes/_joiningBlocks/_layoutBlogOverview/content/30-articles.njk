@@ -1,0 +1,32 @@
+<div class="articles">
+  {% for post in posts %}
+    {% if post.data.published %}
+      <article>
+        {% if post.data.cover_image %}
+          <a href="{{ post.url | url }}">
+            <img src="{{ post.data.cover_image | url }}" alt="">
+          </a>
+        {% endif %}
+        <div class="content">
+          <div class='overview-content-main'>
+          <h2>
+            <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+          </h2>
+          <p>{{ post.data.description }}</p>
+          <a class="read" href="{{ post.url | url }}">… read more</a>
+          </div>
+                  <div class='overview-content-meta'>
+        <div class="overview-date">
+    <div>{{ page.date.toDateString() }}</div>
+  </div>
+  <div class="overview-tags">
+    <div class="tags">
+      {% for tag in tags %}
+        <span class="tag">{{tag}}</span>
+      {% endfor %}
+    </div>
+        </div>
+      </article>
+    {% endif %}
+  {% endfor %}
+</div>
