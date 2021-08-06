@@ -1,15 +1,17 @@
----
-author: Bhikkhu Sujato
-title: Uttara on Failure—the first lost text?
-first_published_date: 4/2016
-first_published_url: https://discourse.suttacentral.net/t/uttara-on-failure-the-first-lost-text/2709
-discussion: https://discourse.suttacentral.net/t/uttara-on-failure-the-first-lost-text/2709
-keywords: uttara, vessavana, subhāsita, well-spoken
-uid_sutta: an8.8
-uid_segment: 
----
-
 # Bhikkhu Sujato >> Uttara on Failure—the first lost text?
+
+<dl class='metadata'>
+<dt id='keywords'>keywords</dt>
+	<dd property='dc:subject'>
+		<a class='term'  target='_blank' rel='noopener' href='https://suttacentral.net/define/uttara'>uttara</a>
+		<a class='term'  target='_blank' rel='noopener' href='https://suttacentral.net/define/subhāsita'>subhāsita</a>
+		<a class='term'  target='_blank' rel='noopener' href='https://suttacentral.net/define/vessavaṇa'>Vessavaṇa</a>
+	</dd>
+<dt id='uid_sutta'>suttas discussed</dt>
+	<dd property='dc:identifier'>
+		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an8.8'>AN 8.8</a>
+	</dd>
+</dl>
 
 At AN 8.8 we have a little sutta which shows a range of late features. It is perhaps the first text to hint at some very influential developments in the Buddhist community in the years after the Buddha’s demise.
 
@@ -25,7 +27,7 @@ Uttara gives a rather elaborate answer that appears to be intended to emphasize 
 
 Regardless, it is here that a radically new idea is introduced. Uttara says:
 
->*yaṃ kiñci subhāsitaṃ sabbaṃ taṃ tassa bhagavato vacanaṃ arahato sammā­sambud­dhassa*  
+>*yaṃ kiñci subhāsitaṃ sabbaṃ taṃ tassa bhagavato vacanaṃ arahato sammāsambuddhassa*  
 >Whatever is well-spoken is the word of the Blessed One, the Perfected One, the fully awakened Buddha.
 
 This is a crucial inversion. Rather than saying that all that Buddha says is well-spoken, now all that is well-spoken is spoken by the Buddha. Like I said, it seems to me a little evasive on Uttara’s part. Perhaps he was repeating a teaching without being clearly aware where it came from—which is not at all unusual—and when challenged responds with a bit of bluster. Maybe that’s a harsh reading, but I do find it all a little odd.
@@ -47,3 +49,22 @@ As Ven Brahmali and I argued in *The Authenticity of the Early Buddhist Texts*, 
 In this case, the text itself is somewhat meta. While itself it is inauthentic, is paving the way for the acceptance of inauthentic texts. This invites comparison with a number of other late texts, notably the Lotus Sutra, which introduce doctrinal innovations specifically to authorize themselves.
 
 I wonder whether this Uttara should be identified with the Uttara who was Revata’s student at the Second Council. That Uttara is not connected with Mahisa, and it may well be simply a different person; it’s a common name. Still, it would make sense to smear the opposition monks by implying a connection with Devadatta. It would certainly make sense for such new suttas with innovative doctrines to be composed around this time, as the forces leading to sectarian divisions were starting to be felt in the Saṅgha.
+
+<footer>
+<dl class='metadata'>
+<dt id='author'>author</dt>
+	<dd property='dc:creator'>Bhikkhu Sujato</dd>
+<dt id='title'>title</dt>
+	<dd property='dc:title'>Uttara on Failure—the first lost text?</dd>
+<dt id='first_published_date'>first published</dt>
+	<dd property='dc:date'>2016-04</dd>
+<dt id='first_published_url'>published at</dt>
+<dd property='dc:source'>
+		<a  target='_blank' rel='noopener' href='https://discourse.suttacentral.net/t/uttara-on-failure-the-first-lost-text/2709'>https://discourse.suttacentral.net/t/uttara-on-failure-the-first-lost-text/2709</a>
+</dd>
+	<dt id='license'>license</dt>
+	<dd property='dc:rights'>
+		<a  target='_blank' rel='noopener' href='https://creativecommons.org/publicdomain/zero/1.0/legalcode'>Dedicated to the Public Domain via Creative Commons Zero (CC0)</a>
+	</dd>
+</dl>
+</footer>
