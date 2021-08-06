@@ -21,4 +21,3 @@ reasons:
   - header: Make available one of the world’s great spiritual literatures
     text: The Pali commentaries, derived from Indian sources and developed in Sri Lanka, form one of the largest and most coherent bodies of spiritual exegisis from ancient times.
 ---
-

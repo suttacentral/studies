@@ -33,21 +33,27 @@
   height:  56px;
   padding:  4px 8px 0;
   border-bottom:  4px solid transparent;
+  font-weight:  600;
 }
 
 #main-header .logo-link span {
   font-size:  1.25rem;
     line-height: 1;
+    font-weight:  550;
+    font-variant-caps: all-small-caps;
 }
 
 rocket-navigation > ul > li > a {
 	color: var(--primary-color);
-	font-weight: 600;
+	font-weight: 500;
 	font-size: 1.25rem;
   line-height:  1.2;
 	text-transform: lowercase;
 	font-variant-caps: all-small-caps;
-  letter-spacing:  0.01em;
+}
+
+rocket-navigation > ul > li > ul a {
+  font-weight: 500;
 }
 
 rocket-navigation a:hover,
@@ -62,14 +68,11 @@ text-underline-offset: 0.06em;
   display:  none;
 }
 
-.markdown-body h1 {
-  font-weight:  400;
-}
-
-
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6{
   margin: 1em 0 1rem 0;
   border-bottom:  none;
+  padding:  0;
+  font-weight:  500;
 }
 
 .markdown-body blockquote{
@@ -98,9 +101,11 @@ body[layout="layout-home-background"]{
 }
 
 body[layout^="layout-home"] .page-title{
-  margin-bottom:  8px;
   padding-bottom:  0;
-  font-size:  3em;
+  font-size:  6rem;
+  font-variant-caps: all-small-caps;
+  line-height:  0.83;
+  font-weight:  360;
 }
 
 body[layout="layout-home-background"] #content-wrapper{
@@ -120,6 +125,10 @@ body[layout^="layout-home"] .page-slogan{
 font-size: 24px;
 font-style: italic;
 font-weight: 450;
+}
+
+#main-header .content-area > *{
+  
 }
 
 #main-header a.active {
@@ -207,13 +216,6 @@ font-weight: 450;
   border:  4px solid var(--markdown-table-border-color);
 }
 
-.markdown-body footer dl.metadata{
-margin-top:  4rem;
-background-color: var(--markdown-table-row-odd-background-color);
-border:  1px solid var(--markdown-table-border-color);
-border-radius:  1rem;
-padding: 1rem;
-}
 .markdown-body  dl.metadata{
 display: grid;
 grid-template-columns: 1fr 4fr;
@@ -222,7 +224,19 @@ gap: .5rem 1rem;
 font-family:  var(--primary-font-family);
 font-size:  small;
 margin-bottom:  2rem;
+padding:  .5em 0;
+border-top:  1px solid var(--markdown-table-border-color);
+border-bottom:  1px solid var(--markdown-table-border-color);
 }
+
+.markdown-body footer dl.metadata{
+margin-top:  4rem;
+background-color: var(--markdown-table-row-odd-background-color);
+border:  1px solid var(--markdown-table-border-color);
+border-radius:  1em;
+padding: 1em;
+}
+
 
 .markdown-body  dl.metadata dt{
 margin-top:  0;
