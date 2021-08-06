@@ -13,6 +13,8 @@ Submitted essays *must* follow the following form.
 - Essays are in markdown: `foo.md` 
     - Use CommonMark. If you are not familiar, [take ten minutes to learn it](https://commonmark.org/help/tutorial/).
     - Check a [sample essay](https://raw.githubusercontent.com/suttacentral/studies/main/docs/essays/sujato/a-few-rather-insignificant-notes-on-the-dhammika-sutta-that-you-can-mostly-likely-live-without.md)
+- You *must* add a heading of the exact form in the sample, i.e. `# Your Name >> The Title` This is what creates the navigation.
+- Essays are alphabetical order by default. If you want to order your essays, do `# Your Name >> the Title || 10`. 
 - Fill in the metadata fields as best as you can, delete or add more as you see fit. 
 - Use Unicode, no special characters etc.
     - take special care to use Latin Ā not Greek Ᾱ when spelling Ānanda!
