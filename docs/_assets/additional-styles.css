@@ -39,8 +39,10 @@
   font-weight:  600;
 }
 
-#main-header .logo-link span {
-  font-size:  1.25rem;
+#main-header .logo-link span,
+#sidebar-nav .logo-link span
+ {
+    font-size:  1.25rem;
     line-height: 1;
     font-weight:  550;
     font-variant-caps: all-small-caps;
