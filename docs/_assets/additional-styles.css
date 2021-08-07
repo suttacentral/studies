@@ -26,6 +26,10 @@
   margin-top:  8px;
 }
 
+#sidebar-nav .logo-link{
+  padding-right:  1rem;
+}
+
 #main-header a{
   display:  inline-flex;
   align-items: center;
@@ -312,6 +316,15 @@ position:  absolute;
 }
 #main-header .logo-link span{
   display:  none;
+}
+
+body[layout^="layout-home"] .page-title{
+  font-size:  3rem;
+}
+
+.markdown-body .bio-image{
+  width:  60px;
+  height:  60px;
 }
 }
 .overview-content-main{
