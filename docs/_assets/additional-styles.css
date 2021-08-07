@@ -1,3 +1,11 @@
+body{
+  font-optical-sizing: auto;
+}
+
+p, ul, ol, dl, blockquote{
+  font-optical-sizing:  none;
+}
+
 .markdown-body {
   font-family: var(--secondary-font-family)
 }
@@ -9,10 +17,14 @@
   font-size:  1.25rem;
   padding:  4px 16px;
   font-weight:  600;
+  text-shadow: none;
+  background:  none;
+  background-color:  var(--contrast-color-dark);
+  border:  none;
 }
 
 #main-header{
-	background-color:  #ffcb61;
+  background-color:  #ffcb61;
   padding:  0;
 }
 
@@ -26,7 +38,7 @@
   margin-top:  8px;
 }
 
-#sidebar-nav .logo-link{
+.global-overlays__overlay #sidebar-nav .logo-link{
   padding-right:  1rem;
   display:  flex;
   align-items:  center;
@@ -59,12 +71,12 @@
 }
 
 rocket-navigation > ul > li > a {
-	color: var(--primary-color);
-	font-weight: 500;
-	font-size: 1.25rem;
+  color: var(--primary-color);
+  font-weight: 500;
+  font-size: 1.25rem;
   line-height:  1;
-	text-transform: lowercase;
-	font-variant-caps: all-small-caps;
+  text-transform: lowercase;
+  font-variant-caps: all-small-caps;
 }
 
 rocket-navigation > ul > li > ul a {
@@ -79,8 +91,18 @@ text-decoration-thickness: 0.15em;
 text-underline-offset: 0.06em;
 }
 
+
+
 #layout-index-open-navigation{
-  display:  none;
+display: none
+}
+
+
+
+@media screen and (min-width: 1024px) {
+  #layout-index-open-navigation {
+    display: none;
+  }
 }
 
 .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6{
@@ -109,6 +131,18 @@ color: var(--primary-color);
 body[layout="layout-home-background"] .page-background{
   transform: none;
   opacity:  0.05;
+}
+
+body[layout^="layout-home"] .page-logo {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    max-width: initial;
+    color: var(--primary-color);
+    opacity:  0.05;
+    position:  absolute;
+    top:  -2em;
+
 }
 
 body[layout="layout-home-background"]{
@@ -257,10 +291,14 @@ padding: 1em;
 margin-top:  0;
 padding-right:  .5rem;
 color:  var(--secondary-text-color);
-position:  relative;
-z-index:  100;
-height:  100%;
-background-color:  var( --page-background);
+}
+
+#keywords,
+#uid_sutta {
+  position:  relative;
+  z-index:  100;
+  height:  100%;
+  background-color:  var( --page-background);
 }
 
 .markdown-body  dl.metadata dd{
