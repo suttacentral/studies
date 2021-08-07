@@ -58,11 +58,12 @@ section p, section ul, section ol, section dl, section blockquote{
 #main-header .logo-link span,
 #sidebar-nav .logo-link span
  {
-    font-size:  .9rem;
+    font-size:  1.25rem;
     line-height: 1;
     font-weight:  550;
     font-family:  var(--secondary-font-family);
     font-variant-caps: all-small-caps;
+    margin-bottom:  4px;
 }
 
 
