@@ -8,7 +8,7 @@
         <a  target='_blank' rel='noopener' href='https://suttacentral.net/define/sabhā'>sabhā</a>
         <a  target='_blank' rel='noopener' href='https://suttacentral.net/define/parisā'>parisā</a>
     </dd>
-<dt id='uid_sutta'>suttas discussed</dt>
+<dt id='uid_sutta'>texts</dt>
     <dd property='dc:identifier'>
         <a  target='_blank' rel='noopener' href='https:suttacentral.net/snp2.14'>Snp 2.14</a>
     </dd>

@@ -1,7 +1,7 @@
 ---
 title: On curiosity and empathy
 published: true
-description: An account from Bhikkhu Sujato’s perspective of why we are interested in post-canonical literature
+description: An account from Bhikkhu Sujato’s perspective of why we are interested in post-canonical literature.
 tags: [Pali, Buddhism, Tipitaka, OCBS, SuttaCentral]
 cover_image: https://upload.wikimedia.org/wikipedia/commons/9/9f/Burmese-Pali_Manuscript_Wellcome_L0067947.jpg
 ---

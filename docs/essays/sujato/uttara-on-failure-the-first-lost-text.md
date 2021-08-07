@@ -7,7 +7,7 @@
 		<a class='term'  target='_blank' rel='noopener' href='https://suttacentral.net/define/subhāsita'>subhāsita</a>
 		<a class='term'  target='_blank' rel='noopener' href='https://suttacentral.net/define/vessavaṇa'>Vessavaṇa</a>
 	</dd>
-<dt id='uid_sutta'>suttas discussed</dt>
+<dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
 		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an8.8'>AN 8.8</a>
 	</dd>

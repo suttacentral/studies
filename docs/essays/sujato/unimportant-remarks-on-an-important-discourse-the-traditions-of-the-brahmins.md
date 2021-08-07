@@ -8,7 +8,7 @@
 		<a target='_blank' rel='noopener' href='https://suttacentral.net/define/gantheti'>gantheti</a>
 		<a target='_blank' rel='noopener' href='https://suttacentral.net/define/kiccākicca'>kiccākicca</a>
 	</dd>
-<dt id='uid_sutta'>suttas discussed</dt>
+<dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
 		<a  target='_blank' rel='noopener' href='https:suttacentral.net/snp2.7'>Snp 2.7</a>
 		<a  target='_blank' rel='noopener' href='https://suttacentral.net/an5.192/en/sujato#5.4'>AN 5.192:5.4</a>

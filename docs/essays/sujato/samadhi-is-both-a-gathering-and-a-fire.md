@@ -9,7 +9,7 @@
 		<a  target='_blank' rel='noopener' href='https://suttacentral.net/define/jhāyati'>jhāyati</a>
 		<a  target='_blank' rel='noopener' href='https://suttacentral.net/define/jhāna'>jhāna</a>
 	</dd>
-<dt id='uid_sutta'>texts discussed</dt>
+<dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
 		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn7.9'>SN 7.9</a>
 		<a  target='_blank' rel='noopener' href='https://www.sacred-texts.com/hin/sbe15/sbe15075.htm'>Bṛhadāraṇyaka Upaniṣad 4.3</a>

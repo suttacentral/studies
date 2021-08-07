@@ -8,7 +8,7 @@
 		<a  target='_blank' rel='noopener' href='https://suttacentral.net/define/nibbhoga'>nibbhoga</a>
 		<a  target='_blank' rel='noopener' href='https://suttacentral.net/define/arasarūpa'>arasarūpa</a>
 	</dd>
-<dt id='uid_sutta'>suttas discussed</dt>
+<dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
 		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an4.127'>AN 4.127</a>
 		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn56.46'>AN 56.46</a>
