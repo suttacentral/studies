@@ -1,10 +1,5 @@
 body{
   font-optical-sizing: auto;
-  
-}
-
-section p, section ul, section ol, section dl, section blockquote{
-  font-variation-settings:  'opsz' 16;
 }
 
 .markdown-body {
@@ -301,7 +296,7 @@ color:  var(--secondary-text-color);
 #keywords,
 #uid_sutta {
   position:  relative;
-  z-index:  100;
+  z-index:  10;
   height:  100%;
   background-color:  var( --page-background);
 }
