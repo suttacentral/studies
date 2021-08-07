@@ -22,6 +22,10 @@
   font-family: var(--secondary-font-family)
 }
 
+#main-header .logo-link img{
+  margin-top:  8px;
+}
+
 #main-header a{
   display:  inline-flex;
   align-items: center;
@@ -42,7 +46,7 @@ rocket-navigation > ul > li > a {
 	color: var(--primary-color);
 	font-weight: 500;
 	font-size: 1.25rem;
-  line-height:  1.2;
+  line-height:  1;
 	text-transform: lowercase;
 	font-variant-caps: all-small-caps;
 }
@@ -278,9 +282,15 @@ position:  absolute;
 
 .markdown-body img{
   object-fit:  cover;
-  height:  100%;
+  width:  100%;
+  height:  auto;
 }
 
+.markdown-body .articles img{
+  object-fit:  cover;
+  width:  auto;
+  height:  100%;
+}
 .articles article .content{
   padding:  2rem 1rem!important;
   display:  flex;
