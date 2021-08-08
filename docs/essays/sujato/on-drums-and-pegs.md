@@ -1,3 +1,7 @@
+---
+description: A discussion of the simile of the drum that was so repaired it fell apart.
+---
+
 # Bhikkhu Sujato >> On Drums and Pegs
 
 <dl class='metadata'>
