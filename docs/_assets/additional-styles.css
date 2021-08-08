@@ -351,6 +351,11 @@ position:  absolute;
   height:  auto;
 }
 
+.full-width-image,
+iframe{
+  margin-bottom:  1rem;
+}
+
 .markdown-body .articles img{
   object-fit:  cover;
   width:  auto;
