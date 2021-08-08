@@ -65,7 +65,7 @@ It turns out the translation as “drumhead” is incorrect. The Pali is *pokkha
 
 The *pokkharaphalaka* must be the rim, i.e. a circlet of wood holding the skin in place. These days, most Indian drumskins are held in place with rims that use complex ties. These allow a fine control over tuning the drum.
 
-<img class='full-width-image' src='/_merged_assets/img/indian_drum.jpg' alt='An Indian drum with rum attaching skin to body'>
+<img class='full-width-image' src='/_merged_assets/img/indian_drum_rim.jpg' alt='An Indian drum with rum attaching skin to body'>
 
 More primitive drums are simply pegged straight to the drum body, as in this old village drum from Africa.
 
