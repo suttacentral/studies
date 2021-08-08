@@ -1,3 +1,9 @@
+---
+published: true
+description: A discussion of the simile of the tuned lute or rather arched harp.
+tags: [Pali, Buddhism, Tipitaka, OCBS, SuttaCentral]
+---
+
 # Bhikkhu Sujato >> On Soṇa and tuning instruments
 
 <dl class='metadata'>
