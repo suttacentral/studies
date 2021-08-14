@@ -221,7 +221,7 @@ Alright, that’s it, I think. It seems like a lot! I wonder why? Are there more
     <dd property='dc:date'>2021-08-14</dd>
 <dt id='first_published_url'>published at</dt>
 <dd property='dc:source'>
-        <a  target='_blank' rel='noopener' href='https://discourse.suttacentral.net/t/a-few-rather-insignificant-notes-on-the-dhammika-sutta-that-you-can-mostly-likely-live-without/19064'>https://discourse.suttacentral.net/t/a-few-rather-insignificant-notes-on-the-dhammika-sutta-that-you-can-mostly-likely-live-without/19064</a>
+        <a  target='_blank' rel='noopener' href='https://discourse.suttacentral.net/t/some-passably-interesting-remarks-on-the-sabhiya-sutta/21227'>https://discourse.suttacentral.net/t/some-passably-interesting-remarks-on-the-sabhiya-sutta/21227</a>
 </dd>
     <dt id='license'>license</dt>
     <dd property='dc:rights'>
