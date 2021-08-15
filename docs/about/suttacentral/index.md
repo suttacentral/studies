@@ -77,7 +77,7 @@ Variant readings have their own special markup.
 
 Normally translators won’t have to worry about data forms, they can just translate directly in the Bilara webapp. 
 
-<img class='screenshot' src='/_merged_assets/img/bilara.png' alt='Screenshot of Bilara webapp'>
+<img class='screenshot' src='/_merged_assets/img/bilara.jpg' alt='Screenshot of Bilara webapp'>
 
 The webapp provides a clean interface optimized for translation of texts. Typically there is a column for the root text and the translation; the app suggests translations based on previous translations. Translators can customixe the interface, changing order of columns, adding more columns for notes or translations in other languages, for example.
 
