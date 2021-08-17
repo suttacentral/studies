@@ -1,3 +1,7 @@
+---
+description: The Sabhiyasutta is a fairly long discourse full of puns and wordplay that contains more than its share of challenges for a translator.
+---
+
 # Bhikkhu Sujato >> Some passably interesting remarks on the Sabhiya Sutta
 
 <dl class='metadata'>
@@ -19,7 +23,7 @@
     </dd>
 <dt id='uid_sutta'>texts</dt>
     <dd property='dc:identifier'>
-        <a  target='_blank' rel='noopener' href='https:suttacentral.net/snp2.14'>Snp 3.6</a>
+        <a  target='_blank' rel='noopener' href='https:suttacentral.net/snp3.6'>Snp 3.6</a>
     </dd>
 </dl>
 
@@ -209,7 +213,6 @@ What is curious about this is that, so far as I can see, this pair is only menti
 ***
 
 Alright, that’s it, I think. It seems like a lot! I wonder why? Are there more issues with translating this text, or did I just feel like writing more about it? I do feel that it’s a deceptively difficult text, so I’m satisfied that I’ve finally completed it. As always, most of the work has been done by the excellent translators who have preceded me, and I merely hope to have clarified the sense in one or two instances.
-
 
 <footer>
 <dl class='metadata'>
