@@ -1,3 +1,4 @@
+
 # Pali basics
 
 ## language
@@ -10,7 +11,7 @@ Pali is one of the languages that were commonly used throughout northern India i
 
 The pronunciation of Pali is described in detail in ancient texts. Ancient Indian linguistics is one of the most precise of all social sciences, and the texts details the exact methods of pronunciation and places of articulation in the mouth.
 
-Modern pronunciation of Pali varies according to the linguistic background of the speaker. For example, speakers of a dialect that does not include both “r” and “l” might confuse them in Pali. Retroflex consonants, which are pronounced with the tongue curled back on top the roof of the mouth, are absent in most languages and are usally replaced with the corresponding dental. Sometimes the same letter is used for different sounds in the local language than in Pali. For example, ภ is pronounced as an aspirated “p” in Thai, but as an aspirated “b” in Pali. 
+Modern pronunciation of Pali varies according to the linguistic background of the speaker. For example, speakers of a dialect that does not include both “r” and “l” might confuse them in Pali. Retroflex consonants, which are pronounced with the tongue curled back on top the roof of the mouth, are absent in most languages and are usually replaced with the corresponding dental. Sometimes the same letter is used for different sounds in the local language than in Pali. For example, ภ is pronounced as aspirated “p” in Thai, but as aspirated “b” in Pali. 
 
 Despite these regional variations, scholars agree on the original pronunciation. 
 
@@ -18,9 +19,15 @@ Despite these regional variations, scholars agree on the original pronunciation.
 
 A script is a way of writing down language. Written Pali uses a variety of scripts. Like all Indic languages, the writing system is phonetic; it represents exactly the elements (_akkhara_) of the language as pronounced. For this reason, Pali may be written in any script that can represent the phonetic sounds. There is no therefore no “correct” form of Pali script.
 
-The earliest written Pali was in Brahmi characters of the Asholkan era, which looks like this.
+The earliest written Pali texts would have been in Brahmi characters, but none surive from the earliest times. However they would be very similar to the Ashokan inscriptions in the closely-related Magadhan dialect, written in the Brahmi script.
+
+<img class='full-width-image' src='/_merged_assets/img/Brahmi_pillar_inscription_in_Sarnath.jpg' alt='Brahmi pillar inscription in Sarnath, wikipedia'>
+
+
 
 Later, Pali was written in a variety of scripts such as Sinhala, Myanmar, Khmer, or Thai. In 1894 European scholars settled on the IAST system of transcribing Pali, which uses the Roman alphabet with some diacritical marks to represent certain sounds in Sanskrit and Pali. In 2001 the very similar ISO 15919 standard was adopted as an international system of romanizing several Indic languages including Pali and Sanskrit. It is worth noting that there is no historical evidence of Pali being written in Devanagari. 
+
+As with pronunciation, there are local variations in romanization. This is because the romanization conventions for the local language are different than that of the Pali, a subtlety that can cause confusion for those who do not understand language. For example, in Sinhala, _sujato_ is romanized as _sujatho_. 
 
 Pali consonants are described in a systematic way depending on the place of articulation in the mouth, moving from the back to the front. Each place of articulation has four stop consonants depending on whether it is unaspirated or aspirated; and an additional nasal. The following table shows the Pali consonants (except the glottal h) in three commonly-used scripts: romanized IAST or ISO 15919, Thai, and Sinhala. Due to the precision of these systems, the [Aksharamukha](https://aksharamukha.appspot.com/converter) script converter used by SuttaCentral can convert over 90 scripts. 
 
@@ -150,7 +157,7 @@ Pali consonants are described in a systematic way depending on the place of arti
 
 ## manuscripts
 
-Pali texts come down to us in the form of palm-leaf (ola) manuscripts. These are hand-inscribed with an etching tool, then died with ink. Because they are hand-written, each manuscript has errors and eccenrtricities.
+Pali texts come down to us in the form of palm-leaf (ola) manuscripts. These are hand-inscribed with an etching tool, then died with ink. Because they are hand-written, each manuscript has errors and eccentricities.
 
 In the tropical countries where Theravāda flourishes, palm-leaf manuscripts rarely last more than a few centuries. Thus virtually all Pali texts are edited from palm-leaf manuscripts that date to the 18th or 19th century. There are very few instances of Pali older than this.
 
