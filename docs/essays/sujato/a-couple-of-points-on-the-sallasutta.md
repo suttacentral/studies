@@ -61,7 +61,7 @@ First, it requires reading in quite a bit (_so peto “idāni mayā puna jīvat�
  We can compare this usage with AN 5.48–50 Alabbhanīyaṭhāna, which speak of five “things that cannot be had”, for example, that someone who is liable to die might not die. Here I believe _alabbha_  has the same force as _alabbhanīya_.
 
 >*Neso (a)labbhā mayā iti.*
-Think: “I cannot escape this.”
+>Think: “I cannot escape this.”
 
  That’s about all for this Sutta. It was a pleasure to translate this one, full of pithy and meaningful sayings. I tried to convey the directness of the original, and I hope I succeeded.
 
