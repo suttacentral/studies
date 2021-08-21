@@ -13,10 +13,10 @@ description: A discussion of the sense of the word vivattakkhandha, which descri
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sn4.23'>SN 4.23</a>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sn22.87'>SN 22.87</a>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sa1265'>SA 1265</a>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sa1091'>SA 1091</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sn4.23'>SN 4.23</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sn22.87'>SN 22.87</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sa1265'>SA 1265</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sa1091'>SA 1091</a>
 	</dd>
 </dl>
  

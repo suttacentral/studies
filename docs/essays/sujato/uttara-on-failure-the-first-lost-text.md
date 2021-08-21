@@ -9,7 +9,7 @@
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an8.8'>AN 8.8</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/an8.8'>AN 8.8</a>
 	</dd>
 </dl>
 

@@ -13,8 +13,8 @@ description: The Sallasutta is a direct and incisive discussion of death and gri
     </dd>
 <dt id='uid_sutta'>texts</dt>
     <dd property='dc:identifier'>
-        <a  target='_blank' rel='noopener' href='https:suttacentral.net/snp3.8'>Snp 3.8</a>
-        <a  target='_blank' rel='noopener' href='https:suttacentral.net/an5.48'>AN 5.48</a>
+        <a  target='_blank' rel='noopener' href='https://suttacentral.net/snp3.8'>Snp 3.8</a>
+        <a  target='_blank' rel='noopener' href='https://suttacentral.net/an5.48'>AN 5.48</a>
     </dd>
 </dl>
 

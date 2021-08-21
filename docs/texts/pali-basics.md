@@ -23,8 +23,6 @@ The earliest written Pali texts would have been in Brahmi characters, but none s
 
 <img class='full-width-image' src='/_merged_assets/img/Brahmi_pillar_inscription_in_Sarnath.jpg' alt='Brahmi pillar inscription in Sarnath, wikipedia'>
 
-
-
 Later, Pali was written in a variety of scripts such as Sinhala, Myanmar, Khmer, or Thai. In 1894 European scholars settled on the IAST system of transcribing Pali, which uses the Roman alphabet with some diacritical marks to represent certain sounds in Sanskrit and Pali. In 2001 the very similar ISO 15919 standard was adopted as an international system of romanizing several Indic languages including Pali and Sanskrit. It is worth noting that there is no historical evidence of Pali being written in Devanagari. 
 
 As with pronunciation, there are local variations in romanization. This is because the romanization conventions for the local language are different than that of the Pali, a subtlety that can cause confusion for those who do not understand language. For example, in Sinhala, _sujato_ is romanized as _sujatho_. 
@@ -67,7 +65,7 @@ Pali consonants are described in a systematic way depending on the place of arti
 {
     display: inline-block;
 
-    width: 1.2em;
+    width: 2em;
 
     white-space: pre;
 }

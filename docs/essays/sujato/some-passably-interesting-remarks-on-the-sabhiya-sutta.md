@@ -23,7 +23,7 @@ description: The Sabhiyasutta is a fairly long discourse full of puns and wordpl
     </dd>
 <dt id='uid_sutta'>texts</dt>
     <dd property='dc:identifier'>
-        <a  target='_blank' rel='noopener' href='https:suttacentral.net/snp3.6'>Snp 3.6</a>
+        <a  target='_blank' rel='noopener' href='https://suttacentral.net/snp3.6'>Snp 3.6</a>
     </dd>
 </dl>
 

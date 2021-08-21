@@ -14,7 +14,7 @@ description: In the years after the Buddha’s death, his teaching spread across
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sn35.132'>SN 35.132</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sn35.132'>SN 35.132</a>
 	</dd>
 </dl>
 

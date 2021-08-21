@@ -15,8 +15,8 @@ description: A discussion of the simile of the drum that was so repaired it fell
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn20.7'>SN 20.7</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sa1258'>SA 1258</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn20.7'>SN 20.7</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sa1258'>SA 1258</a>
 	</dd>
 </dl>
  

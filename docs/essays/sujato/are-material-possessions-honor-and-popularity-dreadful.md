@@ -10,13 +10,13 @@
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn17.1'>SN 17.1</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn17.2'>SN 17.2</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn17.3'>SN 17.3</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn17.4'>SN 17.4</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn17.6'>SN 17.6</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/snp2.2'>Snp 2.2</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/pv32'>Pv 32</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn17.1'>SN 17.1</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn17.2'>SN 17.2</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn17.3'>SN 17.3</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn17.4'>SN 17.4</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn17.6'>SN 17.6</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/snp2.2'>Snp 2.2</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/pv32'>Pv 32</a>
 	</dd>
 </dl>
 

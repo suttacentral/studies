@@ -12,10 +12,10 @@ description: A discussion of the obscure Pali word velāmikā.
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sn22.96'>SN 22.96</a>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/dn17'>DN 17</a>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/sa264'>SA 264</a>
-		<a target='_blank' rel='noopener' href='https:suttacentral.net/an9.20'>AN 9.20</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sn22.96'>SN 22.96</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/dn17'>DN 17</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/sa264'>SA 264</a>
+		<a target='_blank' rel='noopener' href='https://suttacentral.net/an9.20'>AN 9.20</a>
 	</dd>
 </dl>
  

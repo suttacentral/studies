@@ -10,11 +10,11 @@
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an8.11'>AN 8.11</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an8.12'>AN 8.12</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/pv12'>Pv 12</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/ja354'>Ja 354</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/pli-tv-bu-vb-pj1'>Pli Tv Bu Vb Pj 1</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/an8.11'>AN 8.11</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/an8.12'>AN 8.12</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/pv12'>Pv 12</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/ja354'>Ja 354</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/pli-tv-bu-vb-pj1'>Pli Tv Bu Vb Pj 1</a>
 	</dd>
 </dl>
 

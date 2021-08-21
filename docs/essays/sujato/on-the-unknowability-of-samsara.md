@@ -11,7 +11,7 @@ description: A discussion of the Buddha’s claim that the first point of transm
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn15.7'>SN 15.7</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn15.7'>SN 15.7</a>
 	</dd>
 </dl>
  In SN 15.1 and elsewhere we find a striking assertion that the first point of _saṁsāra_ is unknowable. 

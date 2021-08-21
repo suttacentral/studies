@@ -14,13 +14,13 @@ description: A discussion of the simile of the tuned lute or rather arched harp.
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an6.55'>AN 6.55</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/pli-tv-kd5'>Pli-Tv-Kd 5</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sa254'>SA 254</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/ea23.3'>EA 23.3</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/lzh-mi-kd6'>Lzh-Mi-Kd 6</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/lzh-dg-kd5'>Lzh-Dg-Kd 5</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/ma123'>MA 123</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/an6.55'>AN 6.55</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/pli-tv-kd5'>Pli-Tv-Kd 5</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sa254'>SA 254</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/ea23.3'>EA 23.3</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/lzh-mi-kd6'>Lzh-Mi-Kd 6</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/lzh-dg-kd5'>Lzh-Dg-Kd 5</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/ma123'>MA 123</a>
 	</dd>
 </dl>
 

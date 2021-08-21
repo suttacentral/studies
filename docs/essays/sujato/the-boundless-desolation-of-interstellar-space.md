@@ -10,10 +10,10 @@
 	</dd>
 <dt id='uid_sutta'>texts</dt>
 	<dd property='dc:identifier'>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/an4.127'>AN 4.127</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/sn56.46'>AN 56.46</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/mn123'>MN 123</a>
-		<a  target='_blank' rel='noopener' href='https:suttacentral.net/dn14'>DN 14</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/an4.127'>AN 4.127</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/sn56.46'>AN 56.46</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/mn123'>MN 123</a>
+		<a  target='_blank' rel='noopener' href='https://suttacentral.net/dn14'>DN 14</a>
 	</dd>
 </dl>
 
